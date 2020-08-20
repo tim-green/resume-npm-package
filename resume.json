@@ -1,0 +1,42 @@
+{
+  "Bio": [
+    "I’m Tim Green — a a web developer in Canberra Australia. I have a passion for strong, simple websites.I have 12 years of experience working in both an advertising agency and freelance capacity, mainly focusing on building websites/web applications which are simple to use and look great. I worked with some great agencies, government organisations, individuals and start-ups to their reach both business and website goals."
+  ],
+  "Experience": [
+    "Freelance Web Developer - 2019 - Current",
+    "Web Developer at 2B Advertising and Design - 2011-2018",
+    "Web Developer at Roof Rack City Canberra - 2008-2010"
+  ],
+  "Skills": [
+    "JavaScript/jQuery",
+    "PHP",
+    "HTML5",
+    "CSS, SASS",
+    "Grunt",
+    "JSON, XML",
+    "Flexbox, Grid",
+    "Node.js",
+    "React",
+    "Bootstrap",
+    "WordPress",
+    "Drupal",
+    "Shopify",
+    "WooCommerce",
+    "Git, Fork, Terminal",
+    "Accessible PDF and Word Documents"
+  ],
+  "A few sites I've built": [
+    "Return Service League National - http://www.rslnational.org/",
+    "Crossfit2600  - http://www.crossfit2600.com.au",
+    "Orb - https://www.timgreen.ws/orb/",
+    "Moonlight Drupal Theme  - https://drupal.timgreen.ws/",
+    "Night Owl - Bootstrap Admin Dashboard  - https://night-owl.timgreen.ws/",
+    "Booth WooCommerce Theme  - http://themes.timgreen.ws/booth/"
+  ],
+  "Contact": [
+    "Blog - https://www.somewhatcreative.net",
+    "Github - https://github.com/tim-green/",
+    "Website - https://www.timgreen.ws",
+    "Email - tim@timgreen.ws"
+  ]
+}

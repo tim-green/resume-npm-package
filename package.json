@@ -1,0 +1,25 @@
+{
+  "name": "tim-green-resume",
+  "version": "1.0.1",
+  "description": "Tim Green's Front End Developer Resume",
+  "main": "\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tim",
+    "green",
+    "front",
+    "end",
+    "developer"
+  ],
+  "author": "Tim Green",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.4"
+  },
+  "bin": {
+    "tim-green-resume": "./index.js"
+  }
+}
