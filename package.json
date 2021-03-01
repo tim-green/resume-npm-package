@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
-    "inquirer": "^7.3.3"
+    "inquirer": "^8.0.0"
   },
   "bin": {
     "tim-green-resume": "./index.js"
