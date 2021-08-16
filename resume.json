@@ -1,6 +1,6 @@
 {
   "Bio": [
-    "I’m Tim Green — a web developer in Canberra Australia. I have a passion for strong, simple websites.I have 12 years of experience working in both an advertising agency and freelance capacity, mainly focusing on building websites/web applications which are simple to use and look great. I worked with some great agencies, government organisations, individuals and start-ups to their reach both business and website goals."
+    "I’m Tim Green — a web developer in Canberra Australia. I have a passion for strong, simple websites.I have 13 years of experience working in both an advertising agency and freelance capacity, mainly focusing on building websites/web applications which are simple to use and look great. I worked with some great agencies, government organisations, individuals and start-ups to their reach both business and website goals."
   ],
   "Experience": [
     "Freelance Web Developer - 2019 - Current",
@@ -15,7 +15,6 @@
     "Grunt",
     "JSON, XML",
     "Flexbox, Grid",
-    "Node.js",
     "React",
     "Bootstrap",
     "WordPress",
@@ -24,15 +23,17 @@
     "WooCommerce",
     "Git, Fork, Terminal",
     "Accessible PDF and Word Documents",
-    "HootSuite"
+    "HootSuite",
+    "AgoraPulse Social Tool"
   ],
   "A few sites I've built": [
-    "Return Service League National - http://www.rslnational.org/",
-    "Crossfit2600  - http://www.crossfit2600.com.au",
-    "Orb - https://www.timgreen.ws/orb/",
-    "Moonlight Drupal Theme  - https://drupal.timgreen.ws/",
+    "ATSB Annual Report 2016-17 - http://www.atsb.gov.au/reports/AnnualReport_2016-17/index.html",
+    "RSL National Office  - http://rslnational.org/",
+    "Automotiv - https://themes.timgreen.ws/automotiv/",
+    "Booth WooCommerce Theme  - http://themes.timgreen.ws/booth/",
     "Night Owl - Bootstrap Admin Dashboard  - https://night-owl.timgreen.ws/",
-    "Booth WooCommerce Theme  - http://themes.timgreen.ws/booth/"
+    "Orb - HTML Template  - https://www.timgreen.ws/orb",
+    "Idle - Multipage Site Template  - https://www.timgreen.ws/idle/"
   ],
   "Contact": [
     "Blog - https://www.somewhatcreative.net",
