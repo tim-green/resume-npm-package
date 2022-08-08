@@ -16,8 +16,8 @@
   "author": "Tim Green",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.0.0"
     "chalk": "^5.0.1",
+    "inquirer": "^9.1.0"
   },
   "bin": {
     "tim-green-resume": "./index.js"
