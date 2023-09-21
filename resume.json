@@ -35,6 +35,13 @@
     "Idle - Multipage Site Template - https://www.timgreen.ws/idle/",
     "Night Owl - Bootstrap Admin Dashboard - https://night-owl.timgreen.ws/"
   ],
+  "Some apps that I've built in React": [
+    "IP Info - https://github.com/tim-green/ip-info-react",
+    "Rock Paper Scissor - https://github.com/tim-green/rps-react",
+    "The Colour Contrast Checker - https://github.com/tim-green/colour-contrast-checker",
+    "Splash - https://github.com/tim-green/splash-clones",
+    "GroundCTRL React UI - https://github.com/tim-green/groundctrl-ui"
+  ],
   "Contact": [
     "Blog - https://www.somewhatcreative.net",
     "Github - https://github.com/tim-green/",
