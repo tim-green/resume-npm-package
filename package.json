@@ -1,6 +1,6 @@
 {
   "name": "tim-green-resume",
-  "version": "1.1.5",
+  "version": "1.1.7",
   "description": "Tim Green's Front End Developer Resume",
   "main": "\t",
   "scripts": {
@@ -16,8 +16,8 @@
   "author": "Tim Green",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.2.0",
-    "inquirer": "^9.1.5"
+   "chalk": "^3.0.0",
+   "inquirer": "^7.0.0"
   },
   "bin": {
     "tim-green-resume": "./index.js"
