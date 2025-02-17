@@ -1,6 +1,6 @@
 {
   "Bio": [
-    "I’m Tim Green — a web developer in Canberra Australia. I have a passion for strong, simple websites. I have 13 years of experience working in both an advertising agency and freelance capacity, mainly focusing on building websites/web applications which are simple to use and look great. I worked with some great agencies, government organisations, individuals and start-ups to their reach both business and website goals."
+    "I’m Tim Green — a web developer in Canberra Australia. I have a passion for strong, simple websites. I have 17 years of experience working in both an advertising agency and freelance capacity, mainly focusing on building websites/web applications which are simple to use and look great. I worked with some great agencies, government organisations, individuals and start-ups to their reach both business and website goals."
   ],
   "Experience": [
     "Freelance Developer - 2019 - Current",
@@ -8,15 +8,19 @@
     "Web Developer at Roof Rack City Canberra - 2008-2010"
   ],
   "Skills": [
-    "JavaScript/jQuery",
+    "JavaScript",
+    "jQuery",
     "PHP",
     "HTML5",
     "CSS, SASS",
     "Flexbox, Grid",
     "Grunt",
+    "ParcelJS",
+    "Webpack",
     "JSON, XML",
     "React",
     "Bootstrap",
+    "Tailwind CSS",
     "WordPress",
     "WooCommerce",
     "Drupal",
@@ -30,22 +34,23 @@
     "Automotiv - https://themes.timgreen.ws/automotiv/",
     "Booth WooCommerce Theme - https://themes.timgreen.ws/booth/",
     "Rosewood - A simplistic theme for blogging - https://themes.timgreen.ws/rosewood/",
-    "Flywheel - A simple theme for Drupal - https://drupal.timgreen.ws",
     "Orb - HTML Template - https://www.timgreen.ws/orb",
     "Idle - Multipage Site Template - https://www.timgreen.ws/idle/",
     "Night Owl - Bootstrap Admin Dashboard - https://night-owl.timgreen.ws/"
   ],
   "Some apps that I've built in React": [
-    "IP Info - https://github.com/tim-green/ip-info-react",
-    "Rock Paper Scissor - https://github.com/tim-green/rps-react",
+    "Albert CMS Dectector - https://github.com/tim-green/albert-cms-detector",
     "The Colour Contrast Checker - https://github.com/tim-green/colour-contrast-checker",
     "Splash - https://github.com/tim-green/splash-clones",
+    "The Movie Database - https://github.com/tim-green/tmdb-react-app",
+    "IP Info - https://github.com/tim-green/ip-info-react",
+    "Rock Paper Scissor - https://github.com/tim-green/rps-react",
     "GroundCTRL React UI - https://github.com/tim-green/groundctrl-ui"
   ],
   "Contact": [
-    "Blog - https://www.somewhatcreative.net",
-    "Github - https://github.com/tim-green/",
+    "Email - tim@timgreen.ws",
     "Website - https://www.timgreen.ws",
-    "Email - tim@timgreen.ws"
+    "Blog - https://www.somewhatcreative.net",
+    "Github - https://github.com/tim-green/" 
   ]
 }
